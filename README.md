@@ -1,2 +1,3 @@
 # Website-Profile
-Website Portofolio pertama yang saya buat dengan pengetahun dan skill saya 
+Website Portofolio menggunakan HTML, CSS dan JavaScript
+
